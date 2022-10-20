@@ -40,7 +40,7 @@ header h2{
 .header{
   text-align: center;
   background: #594d46;
-  margin: 0 -20px 0 0;
+  margin: 0 0 0 0;
   padding-bottom:15px;
 }
 
@@ -88,8 +88,12 @@ article li{
 }
 
 footer{
+  font-size: 24px;
   text-align: center;
+  padding-bottom: 130px;
 }
 .footer{
+  padding-top:70px;
+  color: #C5C0B9;
   background: #594d46;
 }
